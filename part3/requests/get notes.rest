@@ -1,0 +1,10 @@
+
+//DELETE http://localhost:3001/notes/4
+
+POST http://localhost:3001/notes
+Content-Type: application/json
+
+{
+    "content": "Test data",
+    "important": true
+}

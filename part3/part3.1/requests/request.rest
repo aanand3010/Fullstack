@@ -1,0 +1,11 @@
+//GET http://localhost:3001/api/persons/5de9336baf2a41243cf9ea8c
+
+DELETE http://localhost:3001/api/persons/5de9336baf2a41243cf9ea8c
+
+# POST http://localhost:3001/api/persons
+# Content-Type: application/json
+
+# {
+#     "name": "ARPIT",
+#     "number": "hkllk"
+# }
